@@ -1,0 +1,33 @@
+body{
+    display:flex ;
+    border: 5px solid aquamarine;
+    width: 1600px;
+    height: 750px;
+    justify-content: center;
+}
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: initial;
+}
+
+
+button{
+    align-self: start;
+    background-color: deeppink;
+    border: 1px solid black;
+    width: 120px;
+    height: 40px;
+}
+
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
